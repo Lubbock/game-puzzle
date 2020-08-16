@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "game-puzze",
+  "id": "3e20c777-fd75-4350-9700-0b2bc3b14dbd",
+  "version": "2.4.0",
+  "isNew": false
+}
